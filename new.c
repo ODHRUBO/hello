@@ -7,5 +7,5 @@ int main()
    printf("%d is greater then %d",a,b);
    }else
    printf("%d is less then %d",a,b);
-   printf("%d is greatter then %d",b,a);
+ 
 }
